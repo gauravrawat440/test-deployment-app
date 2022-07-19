@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is just a test app for CI/CD.
+          This is just a test app for CI/CD -second push.
         </p>
         <a
           className="App-link"
